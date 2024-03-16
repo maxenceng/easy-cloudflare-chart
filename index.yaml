@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  easy-cloudflare:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-03-16T17:26:49.866709004+01:00"
+    description: Easy deployment of apps with Cloudflare Tunnels
+    digest: e58f3ef0008bb7b6b9bd11e2d0f351ac500280a23f7c8ccd8967e8e0ad68af72
+    name: easy-cloudflare
+    type: application
+    urls:
+    - easy-cloudflare-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-16T17:26:49.86227457+01:00"
